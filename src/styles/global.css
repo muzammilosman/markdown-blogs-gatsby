@@ -5,3 +5,9 @@ html {
 .author-text{
   font-size: 0.75rem;
 }
+
+.wallpaper{
+  background-image: url("/images/meeseeks.PNG");
+  background-position: center;
+  background-size: cover;
+}
